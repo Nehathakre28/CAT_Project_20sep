@@ -1,0 +1,13 @@
+Playlist: 
+
+Resources: ..
+
+Working Directory: 
+
+Namespaces: 
+
+FailFast: ALL_TESTS
+
+Items:
+Feature: Exercise\WebSetupAndxPathSearch1.feature
+Feature: Exercise\Lemme1.feature

@@ -1,0 +1,43 @@
+{
+  "additionalData" : {
+    "openTabs" : [ {
+      "filePath" : "D:\\CycleProject\\Test\\Features\\Database\\Sql Server\\scenario_outline.feature"
+    } ]
+  },
+  "settings" : {
+    "EmailUsername" : "",
+    "DatastoreUrl" : "localhost:3306/example",
+    "CustomChromeBrowserLocation" : "C:\\Program Files\\chromedriver.exe",
+    "DatastoreName" : "",
+    "SenderEmailAddress" : "",
+    "StoredCredentials" : [ {
+      "credentialsName" : "Sql_server",
+      "username" : "sa",
+      "password" : "admin@123"
+    } ],
+    "SendEmailSummary" : false,
+    "CloseBrowserAfterScenario" : false,
+    "DatastorePassword" : "mysql@123",
+    "WinAppDriverForceCloseLocalApp" : false,
+    "IEDriverLocation" : "C:\\Users\\dP-PL",
+    "EdgeDriverLocation" : "C:\\Users\\dP-PL",
+    "UseCustomChromeLocation" : false,
+    "EmailHost" : "",
+    "CloseBrowserOnCycleExit" : false,
+    "WinAppDriverLocation" : "C:\\Program Files (x86)\\Windows Application Driver\\WinAppDriver.exe",
+    "EmailProtocol" : "SSL",
+    "DatastoreUsername" : "root",
+    "EmailPassword" : "",
+    "ProduceLocalReport" : false,
+    "IncludeStepsInGroupTestReports" : false,
+    "RecipientEmail" : "",
+    "ChromeDriverLocation" : "C:\\Program Files\\chromedriver.exe",
+    "KnownHostsLocation" : null,
+    "WriteToDatastore" : false,
+    "OutputDirectory" : "Output",
+    "EmailPort" : 0,
+    "DatastoreType" : "MySQL",
+    "DatastoreConnection" : "JDBC",
+    "ProduceLocalCsv" : false
+  }
+}

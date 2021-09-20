@@ -1,0 +1,14 @@
+Playlist: 
+
+Resources: 
+
+Working Directory: 
+
+Namespaces: 
+
+FailFast: ALL_TESTS
+
+Items:
+Feature: Features\Countdown.feature
+Feature: Features\Countdown.feature
+Feature: Features\Chevron.feature

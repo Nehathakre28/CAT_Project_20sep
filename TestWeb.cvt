@@ -1,0 +1,11 @@
+[ {
+  "resources" : "",
+  "classes" : [ ],
+  "namespaces" : [ ]
+}, {
+  "name" : "TestwebGrup",
+  "feature" : "GroupTesting\\Web Group Testing.feature",
+  "devices" : "Datasets\\Testdata.csv",
+  "tags" : "",
+  "enabled" : "true"
+} ]
