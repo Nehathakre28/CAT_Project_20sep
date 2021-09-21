@@ -1,3 +1,7 @@
+############################
+#Date :21-09-2021
+############################
+
 Feature: assignment 
 @A1
 Scenario: Dropdown
@@ -40,7 +44,6 @@ And I echo $Value
 
 else I echo "No"
 EndIf
-
 
 
 
