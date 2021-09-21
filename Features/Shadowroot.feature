@@ -1,5 +1,8 @@
 Feature: My Feature
 
+
+
+
 Scenario: Web Testing
 Given I open "Chrome" web browser
 And I maximize web browser
